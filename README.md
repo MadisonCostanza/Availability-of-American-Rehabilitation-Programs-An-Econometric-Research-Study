@@ -27,7 +27,9 @@ Second, the relationship between unemployment rates and program availability is 
 
 Third, Democratic governor leadership is positively associated with alcohol, medical, and drug treatment programs, while vocational training programs are solely affected by GDP per capita, and college programs depend exclusively on the governor's political affiliation.
 
-However, the model does have certain limitations that should be acknowledged. Firstly, the study relies on cross-sectional data, which only provides a snapshot of the relationships at a specific point in time. Longitudinal data over multiple years would be ideal to capture the dynamic changes in rehabilitation program availability and its relationship with economic and political factors.
+However, the model does have certain limitations that should be acknowledged. 
+
+Firstly, the study relies on cross-sectional data, which only provides a snapshot of the relationships at a specific point in time. Longitudinal data over multiple years would be ideal to capture the dynamic changes in rehabilitation program availability and its relationship with economic and political factors.
 
 Secondly, the study's focus on state-level data might overlook significant variations within states or regional differences that could influence rehabilitation program availability. Different local policies, budgetary constraints, and community needs might play a role that cannot be fully captured at the state level.
 
