@@ -1,14 +1,12 @@
 # Availability-of-American-Rehabilitation-Programs-An-Econometric-Research-Study
+
 This is an econometric research project I completed for as a senior at LSU in 2018.
 
 Synopsis:
 
 In this econometric research project, I aim to investigate the influence of macroeconomic factors and political leadership on the 
-
 availability of rehabilitation programs in American public prisons. The study addresses the urgent need to reduce recidivism rates and 
-
 improve the criminal justice system by examining the factors that hinder some facilities from providing sufficient rehabilitation 
-
 opportunities to prisoners preparing for life after release.
 
 The research emphasizes that many prisons wish to offer rehabilitation programs, but lack the necessary funding, given the increasing costs of running correctional facilities in the United States. The economic and social costs of inadequate rehabilitation are significant, with a high rate of re-arrests and lost labor contributing to financial burdens on taxpayers and society.
@@ -19,7 +17,13 @@ GDP per capita data was obtained from official government sources, specifically 
 
 The econometric approach employs the probit model to analyze the relationship between GDP per capita, unemployment rates, and democratic governor leadership with the availability of rehabilitation programs. To test the hypotheses, the study generates an indicator-dependent variable called "any_program" that assesses the collective impact of these factors on rehabilitation availability.
 
-The results reveal several significant findings. First, higher GDP per capita is positively associated with the probability of offering alcohol, medical, mental health, education, and drug treatment programs, indicating that states with better economic performance are more likely to invest in rehabilitation ventures. Second, the relationship between unemployment rates and program availability is counterintuitive, showing a positive correlation with alcohol and drug treatment programs but a negative correlation with medical programs. This finding may reflect the political economy of crime control and resource allocation. Third, Democratic governor leadership is positively associated with alcohol, medical, and drug treatment programs, while vocational training programs are solely affected by GDP per capita, and college programs depend exclusively on the governor's political affiliation.
+The results reveal several significant findings. 
+
+First, higher GDP per capita is positively associated with the probability of offering alcohol, medical, mental health, education, and drug treatment programs, indicating that states with better economic performance are more likely to invest in rehabilitation ventures. 
+
+Second, the relationship between unemployment rates and program availability is counterintuitive, showing a positive correlation with alcohol and drug treatment programs but a negative correlation with medical programs. This finding may reflect the political economy of crime control and resource allocation. 
+
+Third, Democratic governor leadership is positively associated with alcohol, medical, and drug treatment programs, while vocational training programs are solely affected by GDP per capita, and college programs depend exclusively on the governor's political affiliation.
 
 However, the model does have certain limitations that should be acknowledged. Firstly, the study relies on cross-sectional data, which only provides a snapshot of the relationships at a specific point in time. Longitudinal data over multiple years would be ideal to capture the dynamic changes in rehabilitation program availability and its relationship with economic and political factors.
 
@@ -29,10 +33,6 @@ Thirdly, while the probit model is appropriate for binary outcomes, it may not a
 
 Lastly, the study uses data from 2005, and circumstances may have changed since then. Economic conditions, political leadership, and criminal justice policies may have evolved, impacting the availability of rehabilitation programs differently in subsequent years.
 
-In conclusion, this research sheds light on the factors influencing the availability of rehabilitation programs in American public prisons. Despite its limitations, the study provides valuable insights for policymakers and advocates seeking to enhance rehabilitation efforts and reduce recidivism rates. The findings emphasize the importance of economic growth, effective resource allocation, and the role of political leadership in promoting successful reentry into society for inmates. Further research using more recent and comprehensive data could provide a more nuanced understanding of the complex relationships between macroeconomic factors, political leadership, and the availability of rehabilitation programs in public prisons.
+In conclusion, this research sheds light on the factors influencing the availability of rehabilitation programs in American public prisons. Despite its limitations, the study provides valuable insights for policymakers and advocates seeking to enhance rehabilitation efforts and reduce recidivism rates. 
 
-References:
-
-United States Department of Justice. Office of Justice Programs. Bureau of Justice Statistics. Census of State and Federal Adult Correctional Facilities. (2005) Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2017-05-12. https://doi.org/10.3886/ICPSR24642.v3
-Bureau of Economic Analysis (BEA): https://www.bea.gov/
-Bureau of Labor Statistics (BLS): https://www.bls.gov/
+The findings emphasize the importance of economic growth, effective resource allocation, and the role of political leadership in promoting successful reentry into society for inmates. Further research using more recent and comprehensive data could provide a more nuanced understanding of the complex relationships between macroeconomic factors, political leadership, and the availability of rehabilitation programs in public prisons.
