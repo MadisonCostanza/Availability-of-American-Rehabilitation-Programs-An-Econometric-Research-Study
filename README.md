@@ -1,8 +1,6 @@
 # Availability-of-American-Rehabilitation-Programs-An-Econometric-Research-Study
 
-This is an econometric research project I completed for as a senior at LSU in 2018.
-
-Synopsis:
+Abstract:
 
 In this econometric research project, I aim to investigate the influence of macroeconomic factors and political leadership on the 
 availability of rehabilitation programs in American public prisons. The study addresses the urgent need to reduce recidivism rates and 
