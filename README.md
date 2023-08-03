@@ -11,11 +11,13 @@ opportunities to prisoners preparing for life after release.
 
 The research emphasizes that many prisons wish to offer rehabilitation programs, but lack the necessary funding, given the increasing costs of running correctional facilities in the United States. The economic and social costs of inadequate rehabilitation are significant, with a high rate of re-arrests and lost labor contributing to financial burdens on taxpayers and society.
 
-Data for this study comes from two main sources. First, the researcher used the 2005 Census of State and Federal Adult Correctional Facilities, which includes responses from prisoners and relevant state-level data on the availability of rehabilitation programs within prisons. The second source of data includes pertinent state-level economic indicators, specifically Gross Domestic Product (GDP) per capita and the unemployment rate for each state during 2005.
+The research project addresses data from all 50 states in the United States, covering a total of 1,821 adult correctional facilities, which includes prisons and federal institutions. The dataset comprises 1,821 observations, providing a comprehensive analysis of the factors influencing the availability of rehabilitation programs in American public prisons.
+
+Data for this study comes from three main sources. First, I used the 2005 Census of State and Federal Adult Correctional Facilities, which includes responses from prisoners and relevant state-level data on the availability of rehabilitation programs within prisons. The second source of data includes pertinent state-level economic indicators, specifically Gross Domestic Product (GDP) per capita and the unemployment rate for each state during 2005.
 
 GDP per capita data was obtained from official government sources, specifically the Bureau of Economic Analysis (BEA) or the United States Department of Commerce. Unemployment rates for each state were sourced from the Bureau of Labor Statistics (BLS), specifically from the "Economy at a Glance" tables.
 
-The econometric approach employs the probit model to analyze the relationship between GDP per capita, unemployment rates, and democratic governor leadership with the availability of rehabilitation programs. To test the hypotheses, the study generates an indicator-dependent variable called "any_program" that assesses the collective impact of these factors on rehabilitation availability.
+The econometric approach employs the probit model to analyze the relationship between GDP per capita, unemployment rates, and democratic governor leadership with the availability of rehabilitation programs. To test the hypotheses, I generate an indicator-dependent variable called "any_program" that assesses the collective impact of these factors on rehabilitation availability.
 
 The results reveal several significant findings. 
 
